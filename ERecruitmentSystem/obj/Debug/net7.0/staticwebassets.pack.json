@@ -1,0 +1,685 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ERecruitmentSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ERecruitmentSystem.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\css\\custalert.css",
+      "PackagePath": "staticwebassets\\css\\custalert.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\css\\datepicker.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\css\\ers-icon.css",
+      "PackagePath": "staticwebassets\\css\\ers-icon.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\css\\ersoptimze.css",
+      "PackagePath": "staticwebassets\\css\\ersoptimze.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\css\\jquery-confirm.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-confirm.min.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\css\\mybdjnew.css",
+      "PackagePath": "staticwebassets\\css\\mybdjnew.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\css\\normalize.min.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\css\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.min.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\css\\webfonts.css",
+      "PackagePath": "staticwebassets\\css\\webfonts.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterBold.eot",
+      "PackagePath": "staticwebassets\\fonts\\InterBold.eot"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterBold.svg",
+      "PackagePath": "staticwebassets\\fonts\\InterBold.svg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\InterBold.ttf"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterBold.woff",
+      "PackagePath": "staticwebassets\\fonts\\InterBold.woff"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterBold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\InterBold.woff2"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterMedium.eot",
+      "PackagePath": "staticwebassets\\fonts\\InterMedium.eot"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterMedium.svg",
+      "PackagePath": "staticwebassets\\fonts\\InterMedium.svg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterMedium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\InterMedium.ttf"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterMedium.woff",
+      "PackagePath": "staticwebassets\\fonts\\InterMedium.woff"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterMedium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\InterMedium.woff2"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterRegular.eot",
+      "PackagePath": "staticwebassets\\fonts\\InterRegular.eot"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterRegular.svg",
+      "PackagePath": "staticwebassets\\fonts\\InterRegular.svg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterRegular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\InterRegular.ttf"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterRegular.woff",
+      "PackagePath": "staticwebassets\\fonts\\InterRegular.woff"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterRegular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\InterRegular.woff2"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterSemiBold.eot",
+      "PackagePath": "staticwebassets\\fonts\\InterSemiBold.eot"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterSemiBold.svg",
+      "PackagePath": "staticwebassets\\fonts\\InterSemiBold.svg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterSemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\InterSemiBold.ttf"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterSemiBold.woff",
+      "PackagePath": "staticwebassets\\fonts\\InterSemiBold.woff"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\InterSemiBold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\InterSemiBold.woff2"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Bold.eot",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Bold.eot"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Bold.svg",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Bold.svg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Bold.ttf"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Bold.woff"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Bold.woff2"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Medium.eot",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Medium.eot"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Medium.svg",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Medium.svg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Medium.ttf"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Medium.woff"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Medium.woff2",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Medium.woff2"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Regular.eot"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Regular.svg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Regular.ttf"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Regular.woff"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-Regular.woff2"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-SemiBold.eot",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-SemiBold.eot"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-SemiBold.svg",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-SemiBold.svg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-SemiBold.ttf"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-SemiBold.woff",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-SemiBold.woff"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\NotoSansBengaliUI-SemiBold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\NotoSansBengaliUI-SemiBold.woff2"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\ers-icon.eot",
+      "PackagePath": "staticwebassets\\fonts\\ers-icon.eot"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\ers-icon.json",
+      "PackagePath": "staticwebassets\\fonts\\ers-icon.json"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\ers-icon.svg",
+      "PackagePath": "staticwebassets\\fonts\\ers-icon.svg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\ers-icon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ers-icon.ttf"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\ers-icon.woff",
+      "PackagePath": "staticwebassets\\fonts\\ers-icon.woff"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\501231935h4d5g.jpg",
+      "PackagePath": "staticwebassets\\images\\501231935h4d5g.jpg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\641596922l5g6j.jpg",
+      "PackagePath": "staticwebassets\\images\\641596922l5g6j.jpg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\721782724l5g6k.jpg",
+      "PackagePath": "staticwebassets\\images\\721782724l5g6k.jpg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\852106675r7m8p.jpg",
+      "PackagePath": "staticwebassets\\images\\852106675r7m8p.jpg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\Adwords_160X600.png",
+      "PackagePath": "staticwebassets\\images\\Adwords_160X600.png"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\Adwords_300X250.png",
+      "PackagePath": "staticwebassets\\images\\Adwords_300X250.png"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\Adwords_728X90.png",
+      "PackagePath": "staticwebassets\\images\\Adwords_728X90.png"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\Magnify.gif",
+      "PackagePath": "staticwebassets\\images\\Magnify.gif"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\Spin.gif",
+      "PackagePath": "staticwebassets\\images\\Spin.gif"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\bn-active.png",
+      "PackagePath": "staticwebassets\\images\\bn-active.png"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\bn.png",
+      "PackagePath": "staticwebassets\\images\\bn.png"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\certificate.jpg",
+      "PackagePath": "staticwebassets\\images\\certificate.jpg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\content.png",
+      "PackagePath": "staticwebassets\\images\\content.png"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\download.png",
+      "PackagePath": "staticwebassets\\images\\download.png"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\download.svg",
+      "PackagePath": "staticwebassets\\images\\download.svg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\images\\footer-logo.png"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\imagessbl_favicon.ico",
+      "PackagePath": "staticwebassets\\images\\imagessbl_favicon.ico"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\sc1.png",
+      "PackagePath": "staticwebassets\\images\\sc1.png"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\sc2.jpg",
+      "PackagePath": "staticwebassets\\images\\sc2.jpg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\sc3.jpg",
+      "PackagePath": "staticwebassets\\images\\sc3.jpg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\signature-b.png",
+      "PackagePath": "staticwebassets\\images\\signature-b.png"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\standardbank11(2).jpg",
+      "PackagePath": "staticwebassets\\images\\standardbank11(2).jpg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\user-upload-img.svg",
+      "PackagePath": "staticwebassets\\images\\user-upload-img.svg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\user.jpg",
+      "PackagePath": "staticwebassets\\images\\user.jpg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\user.svg",
+      "PackagePath": "staticwebassets\\images\\user.svg"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\useravater.png",
+      "PackagePath": "staticwebassets\\images\\useravater.png"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\usercertificate.png",
+      "PackagePath": "staticwebassets\\images\\usercertificate.png"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\images\\usersignature.png",
+      "PackagePath": "staticwebassets\\images\\usersignature.png"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\js\\custalert.js",
+      "PackagePath": "staticwebassets\\js\\custalert.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\js\\datepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\datepicker.min.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\js\\html5shiv.min.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.min.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\js\\jquery-1.10.2.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.10.2.min.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\js\\jquery-confirm.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-confirm.min.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\js\\jquery.webticker.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.webticker.min.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\js\\respond.min.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\ERecruitmentSystem\\ERecruitmentSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ERecruitmentSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ERecruitmentSystem.props",
+      "PackagePath": "build\\ERecruitmentSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ERecruitmentSystem.props",
+      "PackagePath": "buildMultiTargeting\\ERecruitmentSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ERecruitmentSystem.props",
+      "PackagePath": "buildTransitive\\ERecruitmentSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
